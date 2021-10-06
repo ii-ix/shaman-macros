@@ -1,0 +1,10 @@
+#Summary
+# Scripts for recalling totems.  This functionality was not in Vanilla, but is in TBC.  It's nice especially for recalling Fire Totems that might break CC and preventing charges onto your totems. And this does not effect the GCD.  You can also do this manually by right clicking on the totem icon of course, but keybinds are always nice to have.
+#
+# Made by: Wouch
+#
+#showtooltip
+/script DestroyTotem(1); # Fire
+/script DestroyTotem(2); # Earth
+/script DestroyTotem(3); # Water
+/script DestroyTotem(4); # Air
